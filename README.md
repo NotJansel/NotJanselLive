@@ -7,3 +7,11 @@ This Minecraft Datapack is for Servers which don't really allow streaming, maybe
 
 # Information
 The teams for this datapack are automatically made when enabled. Please note that unattended modifications without knowledge may cause the datapack to break.
+
+# Installation
+To install this datapack, follow simple steps:
+1. Download the latest release, since they are proven to work.
+2. Copy the downloaded .zip file to <PathToServer>\world\Datapacks
+3. Enable the datapack wth the command '/datapack enable "file/NotJanselLive"' if not already.
+4. The datapack automatically creates the needed teams (please make sure that there are no other teams with "/team list", since the datapack makes use of that)
+5. Every player will be put automatically in the offline team, even when they join the first time.
